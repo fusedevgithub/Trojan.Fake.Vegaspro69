@@ -1,0 +1,10 @@
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\bin\Release\Trojan.Fake.Vegaspro69.exe.config
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\bin\Release\Trojan.Fake.Vegaspro69.exe
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\bin\Release\Trojan.Fake.Vegaspro69.pdb
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\obj\Release\Trojan.Fake.Vegaspro69.Form1.resources
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\obj\Release\Trojan.Fake.Vegaspro69.Properties.Resources.resources
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\obj\Release\Trojan.Fake.Vegaspro69.csproj.GenerateResource.cache
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\obj\Release\Trojan.Fake.Vegaspro69.csproj.CoreCompileInputs.cache
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\obj\Release\Trojan.Fake.Vegaspro69.exe
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\obj\Release\Trojan.Fake.Vegaspro69.pdb
+C:\Users\devpc\source\repos\Trojan.Fake.Vegaspro69\Trojan.Fake.Vegaspro69\obj\Release\Trojan.Fake.Vegaspro69.csproj.AssemblyReference.cache
