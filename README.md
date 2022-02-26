@@ -3,7 +3,7 @@ Trojan Fake VegasPro69 **Trojan will kill ur pc forever**
 # Warning
 We are not responsible for any damage caused by this program, please use it in Virtual Machine only.
 # Overview
-Coming Soon
+https://youtu.be/7BKEGSRnYRs
 # Payload
 * Overwrite mbr
 * Open browser payload (Will end in 60s)
