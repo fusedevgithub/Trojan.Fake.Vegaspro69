@@ -9,3 +9,5 @@ Coming Soon
 * Open browser payload (Will end in 60s)
 * After browser payload done **BSOD**
 * and ur pc will cannot boot forever **mbr is goooooooooosh**
+# Requirements
+* Visual C++ 2017 ![Click here](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
